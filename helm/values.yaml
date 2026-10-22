@@ -74,7 +74,7 @@ affinity: {}
 configMap:
   enabled: true
   data:
-    APP_ENV: "production"
+    APP_ENV: "staging"
 
 secret:
   enabled: true
