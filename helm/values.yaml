@@ -11,7 +11,7 @@ fullnameOverride: "java-devops-app"
 
 serviceAccount:
   create: true
-  automount: true
+  automount: false 
   annotations: {}
   name: ""
 
