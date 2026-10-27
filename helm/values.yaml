@@ -3,7 +3,7 @@ replicaCount: 2
 image:
   repository: daddykavin/java-devops-app
   pullPolicy: IfNotPresent
-  tag: "27"
+  tag: "23"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: "java-devops-app"
